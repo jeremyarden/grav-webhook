@@ -1,5 +1,5 @@
 ---
-title: 'The Entire 'Bee Movie' Script'
+title: 'The Entire ''Bee Movie'' Script'
 media_order: BEE.jpg
 ---
 
