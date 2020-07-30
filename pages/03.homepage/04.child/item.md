@@ -1,5 +1,5 @@
 ---
-title: 'BEE MOVIE IS GAY'
+title: 'The Entire 'Bee Movie' Script'
 media_order: BEE.jpg
 ---
 
