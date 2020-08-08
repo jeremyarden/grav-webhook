@@ -1,5 +1,5 @@
 ---
-title: 'The Entire ''Emoji Movie'' Script'
+title: 'This is the end.'
 media_order: EMOJI.jpg
 ---
 
